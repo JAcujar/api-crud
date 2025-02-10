@@ -1,0 +1,6 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+.invalid-error {
+  color: red;
+  font-size: small;
+}
